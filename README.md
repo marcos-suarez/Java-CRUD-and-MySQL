@@ -1,3 +1,5 @@
-# Simple-Java-Crud-Connection-BD
+# Java + MySQL DataBase
 
-Projeto Simples com CRUD, incluindo testes e conexão com banco de dados, "sem interface".
+*Java com Banco de Dados MYSQL, incluindo testes e conexão com banco de dados, "sem interface". Foi utilizado a IDE NetBeans.
+*DAO e métodos para salvar dados.
+
